@@ -1,3 +1,5 @@
+### Connor Dilloughery, Erik Torres
+
 # Response Plots
 
 ## Figure 1: Kp = 10
